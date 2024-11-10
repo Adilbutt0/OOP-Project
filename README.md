@@ -9,7 +9,7 @@ A Python application for tracking and analyzing student performance across subje
 - **Add New Student:** Adds students with scores for subjects such as Math, Science, and Computer.
 ## Getting Started
 **Prerequisites**
-Python 3.x
+- Python 3.x
 **Installation**
 1. Clone the repository:
 ```bash
