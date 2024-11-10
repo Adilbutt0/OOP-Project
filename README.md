@@ -51,7 +51,3 @@ Notes
 Enter positive integers for scores.
 A score above 40 is considered passing.
 ```
-**Project Structure**
-```bash
-student_performance_tracker.py - Main application file
-```
